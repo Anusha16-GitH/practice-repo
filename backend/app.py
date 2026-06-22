@@ -1,1 +1,1 @@
-Backend sample file
+print("Backend sample file")
