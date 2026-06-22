@@ -1,1 +1,1 @@
-This is docs sample file.
+This is a documentation sample file.
